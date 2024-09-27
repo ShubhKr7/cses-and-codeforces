@@ -1,3 +1,7 @@
+/*
+ Question Link: https://codeforces.com/problemset/problem/2010/A
+ */
+
 import java.util.*;
 public class alternatingSumOfNumbers {
     public static void main(String[] args) {

@@ -1,3 +1,7 @@
+/*
+ Question Link: https://codeforces.com/problemset/problem/2009/A
+ */
+
 import java.util.*;
 public class minimize {
     
